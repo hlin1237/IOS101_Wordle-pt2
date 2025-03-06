@@ -2,9 +2,9 @@
 
 Submitted by: **Huimin Lin**
 
-**Name of your app** is an app that ... [TODO] 
+**Name of your app** is an app that allows players to guess hidden word within a limited number of tries, receiving feedback on letter placement and correctness after each guess. The app allows customization of word length, number of guesses, and themes, offering a personalized gaming experience. 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -38,8 +38,7 @@ The following **additional** features are implemented:
 
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
